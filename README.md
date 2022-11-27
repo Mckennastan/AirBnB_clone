@@ -92,5 +92,5 @@ $ python3 unittest -m tests/test_console.py
 
 
 ## Author:
-<Emmanuel chigozie(https://github.com/chigozie)>
+<Nwafor Ugochukwu (https://github.com/chigozie)>
 * **okoro ikenna stanley** <[Mcennastan](https://github.com/Mckennastan)>
